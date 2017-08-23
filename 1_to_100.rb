@@ -1,0 +1,1 @@
+1.upto(100) {|num| puts num }
